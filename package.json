@@ -1,0 +1,28 @@
+{
+  "name": "un-lite",
+  "version": "1.0.0",
+  "description": "UN-Lite es un backend **open-source** diseñado para ofrecer una implementación ligera, extensible y completamente modular de conceptos fundamentales de **Utility Network**, siguiendo estrictamente los principios de **Clean Architecture**. Su objetivo es servir como base sólida para futuros servicios, SDKs y aplicaciones basadas en redes utilitarias.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmurillosanchez/UN-Lite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmurillosanchez/UN-Lite/issues"
+  },
+  "homepage": "https://github.com/pmurillosanchez/UN-Lite#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@vitest/ui": "^4.0.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.12"
+  }
+}
